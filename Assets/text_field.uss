@@ -1,0 +1,43 @@
+.styleClassName {
+}
+
+.cadre {
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+.text_field {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    width: auto;
+    justify-content: flex-start;
+    align-self: auto;
+    top: auto;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: auto;
+}
+
+.text_field > .unity-base-field__label {
+    font-size: 30px;
+}
+
+.text_field > .unity-base-text-field__input {
+    background-color: rgba(255, 0, 0, 0);
+    border-width: 0;
+    color: rgb(253, 234, 189);
+    font-size: 50px;
+    font-style: italic;
+    -unity-font-style: italic;
+}
+
+.buttonLogin {
+    font-size: 33px;
+}

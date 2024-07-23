@@ -1,0 +1,22 @@
+.buttonLogin {
+    font-size: 33px;
+    opacity: 1;
+}
+
+.font {
+    font-size: 55px;
+    -unity-text-align: upper-center;
+    -unity-font-definition: url("project://database/Assets/Gentleland/SteampunkUI/Fonts/Arvo/Arvo%20SDF%201.asset?fileID=11400000&guid=0baf12dcc0f58bc4f86b313647c3cdb8&type=2#Arvo SDF 1");
+    color: rgb(197, 129, 86);
+    text-shadow: -3px 3px 2px rgba(0, 0, 0, 0.99);
+    -unity-text-outline-width: -2px;
+    -unity-text-outline-color: rgb(255, 29, 26);
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-left-color: rgb(249, 15, 15);
+    border-right-color: rgb(249, 15, 15);
+    border-top-color: rgb(249, 15, 15);
+    border-bottom-color: rgb(249, 15, 15);
+}
